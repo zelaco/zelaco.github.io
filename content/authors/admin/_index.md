@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: José Laço
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: José
+last_name: Laço
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,78 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Bioinformatics Researcher | Microbial Genomics & Data Science | PhD in Microbiology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jose.laco96@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/zelaco
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/joselaco/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=NkZKky4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0771-807X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics
+  - Genomic Data Science
+  - Information Microbiology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Environmental and Biomedical Microbiology
+    institution: University of the Balearic Islands
+    date_start: 2022-01-01
+    date_end: 2025-03-10
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis title: Exploring the Clinical Environment as a Reservoir for Potential Pathogens: Integrating Culturomics, Proteomics, and Genomics for Infection Control.
+      Summa cum laude (Excel·lent cum laude)
+      Marie Skłodowska-Curie Fellow
+  - area: MSc in Biochemistry
+    institution: University of Coimbra
+    date_start: 2018-09-01
+    date_end: 2020-07-23
+    summary: |
+      Thesis title: Rivers as Routes for the Spread of Antibiotic Resistance: Role of Anthropogenic Pressures and Risks to Human Health.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://hdl.handle.net/10316/92611'
+  - area: BSc in Biology
+    institution: University of Évora
+    date_start: 2015-09-01
+    date_end: 2018-07-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Final Project: Effect of O3 and NO2 in the Content and Protein Profiles of the Pollen of Dactylis glomerata.
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Early Stage Researcher
+    company_name: University of the Balearic Islands
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      - Conducted a comprehensive study characterizing culturable microbiota in hospital sink drains, with further studies on groups of interest (Pseudomonas, Stenotrophomonas and Klebsiella) using a combination of Whole Genome Sequencing (WGS) and Proteomics.
+      - Developed computational workflows for bacterial diversity analysis, genome-based taxonomy, antibiotic resistance gene detection and proteomic analysis.
+      - Mentored one BSc and one MSc student and presented two seminars to master students.
+  - position: Junior Outsystems Developer
+    company_name: ITUp
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-06-01
+    date_end: 2021-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Learned web development fundamentals and worked on the Outsystems low-code platform.
+      - Designed features such as a notification system and API integration for a company’s internal website.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,73 +100,42 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
-        icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
-    percent: 25
+  - name: Spanish
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: PhD dissertation awarded with Summa cum laude
+    date: '2025-03-10'
+    awarder: University of the Balearic Islands
+  - title: Best Oral Presentation
+    date: '2024-09-28'
+    awarder: Microbiology Society / IJSEM
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      XX TAXON, Salamanca, Spain
+  - title: 'Marie Skłodowska-Curie Fellowship'
+    url: https://www.sysbio.se/pest-bin_eu/
+    date: '2022-01-01'
+    awarder: EU Horizon 2020
+  - title: 'Associate Reactive Developer'
+    date: '2021-09-16'
+    awarder: OutSystems
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I’m José Laço — a bioinformatics researcher with a PhD in Environmental and Biomedical Microbiology. My work sits at the intersection of microbial genomics, data science, and computational biology, with a strong focus on dry-lab research. During my PhD, I combined whole genome sequencing, proteomics, and computational pipelines to study hospital-associated bacterial communities.
+
+Along the way, I’ve presented at international conferences, and participated in science outreach initiatives like European Researchers' Night. I'm now expanding my skillset into machine learning and applied data science, with the goal of bridging biological insight and computational innovation.
+
+Feel free to explore my site, check out my GitHub, or reach out if you’d like to connect!
