@@ -1,0 +1,54 @@
+---
+title: 'Yearlong Analysis of Bacterial Diversity in Hospital Sink Drains: Culturomics,
+  Antibiotic resistance and Implications for Infection Control'
+authors:
+- José Laço
+- Sergi Martorell
+- Maria del Carmen Gallegos
+- Margarita Gomila
+date: '2024-11-01'
+publishDate: '2025-03-31T20:44:51.516084Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Microbiology*'
+doi: 10.3389/fmicb.2024.1501170
+abstract: Hospitals can carry high levels of bacterial diversity from all types of
+  origins, such as human skin, outside environment and medical equipment. Sink drains
+  in clinical settings are considered reservoirs for pathogenic bacteria and potential
+  sources of hospital-acquired infections (HAI's) and antibiotic resistance genes
+  (ARGs). Therefore, infection control measures are crucial to minimizing the risks
+  associated with these reservoirs. Recent research has focused primarily on intensive
+  care units (ICUs) and known pathogens, often employing metagenomic approaches that
+  do not include bacterial isolation. This study aims to evaluate bacterial diversity
+  using culturomics, extending the investigation beyond the ICU to identify antibiotic-resistant
+  bacteria.A total of four samplings were conducted over one year (March 2022 to March
+  2023) in five different hospital wards (ICU, General Medicine (GM), Hematology (H),
+  Short stay unit (UCE) and Microbiology laboratory (MS)). All samples were cultured
+  on selective and non-selective culture media, resulting in 1058 isolates identified
+  using MALDI-TOF MS, with a subset confirmed through 16S rRNA gene sequencing. Isolates
+  retrieved from antibiotic supplemented agar were subjected to antibiotic susceptibility
+  testing.The highest bacterial diversity, as measured by the Shannon index, was observed
+  in the ICU and GM wards, posing significant risks to patients in these areas. While
+  bacterial genera were largely similar across wards and sampling times, with Pseudomonas
+  and Stenotrophomonas being the most prevalent, different species were detected in
+  each sampling, indicating no loss of diversity. This suggests that these environments
+  undergo dynamic changes over time, influenced by their surroundings. The results
+  also indicate a relationship between human activity and drain usage and the presence
+  of Pseudomonas aeruginosa, the most commonly found species across most wards. Antibiotic
+  susceptibility testing revealed that all tested isolates, except for one, were multi-resistant,
+  including clinically relevant species, such as P. aeruginosa and K. pneumoniae.Hospital
+  drains may serve as reservoirs for both known and emerging pathogens exhibiting
+  high antibiotic resistance phenotypes. Their dynamic nature may provide insights
+  into strategies for preventing the colonization of these environments by such species.
+tags:
+- antibiotic resistance
+- bacterial diversity
+- culturomics
+- Infection Control
+- Pseudomonas aeruginosa
+- Sink drains
+links:
+- name: URL
+  url: 
+    https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1501170/abstract
+---
