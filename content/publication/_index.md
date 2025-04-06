@@ -1,7 +1,10 @@
 ---
 title: "Publications"
-cms_exclude: true
-layout: page
+date: 2023-10-24
+type: landing
+
+design:
+  spacing: '5rem'
 
 sections:
   - block: collection
