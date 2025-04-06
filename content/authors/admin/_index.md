@@ -74,7 +74,7 @@ education:
       
 work:
   - position: Early Stage Researcher
-    company_name: University of the Balearic Islands
+    company_name: University of the Balearic Islands, Spain
     company_url: ''
     company_logo: ''
     date_start: 2022-01-01
@@ -93,7 +93,7 @@ work:
       - Learned and applied advanced proteomics techniques and data analysis of both genomics and proteomics data.
       - Contributed to ongoing projects to detect potential biomarkers in blood and urine samples.    
   - position: Junior Outsystems Developer
-    company_name: ITUp
+    company_name: ITUp, Portugal
     company_url: ''
     company_logo: ''
     date_start: 2021-06-01
