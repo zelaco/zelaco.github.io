@@ -45,7 +45,7 @@ profiles:
 interests:
   - Bioinformatics
   - Genomic Data Science
-  - Information Microbiology
+  - Microbiology
 
 education:
   - area: PhD in Environmental and Biomedical Microbiology
@@ -106,9 +106,10 @@ skills:
         description: ''
 
 languages:
-  - name: English
-  - name: Portuguese
-  - name: Spanish
+  items:
+    - name: English
+    - name: Portuguese
+    - name: Spanish
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -134,8 +135,6 @@ awards:
 
 ## About Me
 
-Hi! I’m José Laço — a bioinformatics researcher with a PhD in Environmental and Biomedical Microbiology. My work sits at the intersection of microbial genomics, data science, and computational biology, with a strong focus on dry-lab research. During my PhD, I combined whole genome sequencing, proteomics, and computational pipelines to study hospital-associated bacterial communities.
+Hi! I’m José Laço — a bioinformatics researcher with a PhD in Environmental and Biomedical Microbiology. My work sits at the intersection of microbial genomics, data science, and computational biology. During my PhD, I combined whole genome sequencing, proteomics, and computational pipelines to study hospital-associated bacterial communities.
 
-Along the way, I’ve presented at international conferences, and participated in science outreach initiatives like European Researchers' Night. I'm now expanding my skillset into machine learning and applied data science, with the goal of bridging biological insight and computational innovation.
-
-Feel free to explore my site, check out my GitHub, or reach out if you’d like to connect!
+Along the way, I’ve presented at international conferences, and participated in science outreach initiatives. I'm now expanding my skillset into machine learning and applied data science, with the goal of working at the intersection of biology and data science.
