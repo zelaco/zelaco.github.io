@@ -104,12 +104,14 @@ skills:
         description: ''
       - name: SQL
         description: ''
-
-languages:
-  items:
-    - name: English
-    - name: Portuguese
-    - name: Spanish
+  - name: Languages
+    items:
+      - name: English
+        description: ''
+      - name: Portuguese
+        description: ''
+      - name: Spanish
+        description: ''
 
 # Awards.
 #   Add/remove as many awards below as you like.
