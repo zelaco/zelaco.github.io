@@ -1,5 +1,4 @@
 ---
-type: publication
 title: 'Yearlong Analysis of Bacterial Diversity in Hospital Sink Drains: Culturomics,
   Antibiotic resistance and Implications for Infection Control'
 authors:
@@ -10,6 +9,7 @@ authors:
 date: '2024-11-01'
 publishDate: '2025-03-31'
 publication_types: ["2"]
+type: publication
 publication: '*Frontiers in Microbiology*'
 doi: 10.3389/fmicb.2024.1501170
 abstract: Hospitals can carry high levels of bacterial diversity from all types of
