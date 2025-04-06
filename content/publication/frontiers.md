@@ -1,4 +1,5 @@
 ---
+type: publication
 title: 'Yearlong Analysis of Bacterial Diversity in Hospital Sink Drains: Culturomics,
   Antibiotic resistance and Implications for Infection Control'
 authors:
@@ -7,7 +8,7 @@ authors:
 - Maria del Carmen Gallegos
 - Margarita Gomila
 date: '2024-11-01'
-publishDate: '2025-03-31T20:54:45.697777Z'
+publishDate: '2025-03-31'
 publication_types: ["2"]
 publication: '*Frontiers in Microbiology*'
 doi: 10.3389/fmicb.2024.1501170

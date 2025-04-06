@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2023-10-24
-type: landing
+type: publication
 
 design:
   spacing: '5rem'

@@ -8,4 +8,5 @@ publication: "XX TAXON, Microbiology Society, Salamanca, Spain"
 publication_short: "XX TAXON"
 abstract: "Oral presentation awarded Best Oral Presentation."
 featured: false
+type: publication
 ---
