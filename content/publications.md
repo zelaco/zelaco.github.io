@@ -9,7 +9,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: ["2"]
+        publication_type: "2"
     design:
       view: citation
 
@@ -19,7 +19,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: ["1"]
+        publication_type: "1"
     design:
       view: citation
 ---
