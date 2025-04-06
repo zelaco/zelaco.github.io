@@ -8,7 +8,7 @@ authors:
 - Margarita Gomila
 date: '2024-11-01'
 publishDate: '2025-03-31T20:54:45.697777Z'
-publication_types: ["2"]
+publication_types: 2
 publication: '*Frontiers in Microbiology*'
 doi: 10.3389/fmicb.2024.1501170
 abstract: Hospitals can carry high levels of bacterial diversity from all types of
