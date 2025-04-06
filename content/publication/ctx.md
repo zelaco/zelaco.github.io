@@ -7,8 +7,8 @@ authors:
 - Isabel Henriques
 date: '2022-01-01'
 publishDate: '2025-03-31T20:54:45.714827Z'
-publication_types: ["2"]
-type: publication
+publication_types:
+- article-journal
 publication: '*International Journal of Environmental Research and Public Health*'
 doi: 10.3390/ijerph191911858
 abstract: Enterobacteriaceae resistant to third-generation cephalosporins are a great

@@ -13,7 +13,8 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: ["2"]
+        publication_types:
+        - article-journal
     design:
       view: citation
 
