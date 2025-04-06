@@ -60,7 +60,7 @@ education:
     institution: University of Coimbra
     date_start: 2018-09-01
     date_end: 2020-07-23
-    summary: |
+    summary: 
       Thesis title: Rivers as Routes for the Spread of Antibiotic Resistance: Role of Anthropogenic Pressures and Risks to Human Health.
     button:
       text: 'Read Thesis'
@@ -69,7 +69,7 @@ education:
     institution: University of Évora
     date_start: 2015-09-01
     date_end: 2018-07-01
-    summary: |
+    summary: 
       Final Project: Effect of O3 and NO2 in the Content and Protein Profiles of the Pollen of Dactylis glomerata.
       
 work:
@@ -79,10 +79,19 @@ work:
     company_logo: ''
     date_start: 2022-01-01
     date_end: ''
-    summary: |
+    summary: 
       - Conducted a comprehensive study characterizing culturable microbiota in hospital sink drains, with further studies on groups of interest (Pseudomonas, Stenotrophomonas and Klebsiella) using a combination of Whole Genome Sequencing (WGS) and Proteomics.
       - Developed computational workflows for bacterial diversity analysis, genome-based taxonomy, antibiotic resistance gene detection and proteomic analysis.
       - Mentored one BSc and one MSc student and presented two seminars to master students.
+  - position: Visiting Researcher
+    company_name: University of Gothenburg & Nanoxis Consulting AB, Sweden
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-15
+    date_end: 2023-01-31
+    summary: 
+      - Learned and applied advanced proteomics techniques and data analysis of both genomics and proteomics data.
+      - Contributed to ongoing projects to detect potential biomarkers in blood and urine samples.    
   - position: Junior Outsystems Developer
     company_name: ITUp
     company_url: ''
@@ -100,9 +109,11 @@ skills:
     items:
       - name: Python
         description: ''
-      - name: Data Science
+      - name: R
         description: ''
       - name: SQL
+        description: ''
+      - name: Bash/Unix
         description: ''
   - name: Languages
     items:
@@ -121,11 +132,9 @@ awards:
   - title: PhD dissertation awarded with Summa cum laude
     date: '2025-03-10'
     awarder: University of the Balearic Islands
-  - title: Best Oral Presentation
+  - title: Best Oral Presentation, XX TAXON, Salamanca, Spain
     date: '2024-09-28'
     awarder: Microbiology Society / IJSEM
-    summary: |
-      XX TAXON, Salamanca, Spain
   - title: 'Marie Skłodowska-Curie Fellowship'
     url: https://www.sysbio.se/pest-bin_eu/
     date: '2022-01-01'
