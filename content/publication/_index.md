@@ -1,10 +1,6 @@
 ---
 title: "Publications"
-date: 2023-10-24
 type: publication
-
-design:
-  spacing: '5rem'
 
 sections:
   - block: collection
@@ -13,8 +9,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_types:
-        - article-journal
+        publication_type: ["2"]
     design:
       view: citation
 
@@ -27,9 +22,4 @@ sections:
         publication_type: ["1"]
     design:
       view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---
