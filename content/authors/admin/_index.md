@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Bioinformatics Researcher | Microbial Genomics & Data Science | PhD in Microbiology
+role: Bioinformatics | Microbial Genomics & Data Science | PhD in Microbiology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -44,7 +44,7 @@ profiles:
 
 interests:
   - Bioinformatics
-  - Genomic Data Science
+  - Omics Data Science
   - Microbiology
 
 education:
@@ -146,6 +146,6 @@ awards:
 
 ## About Me
 
-Hi! I’m José Laço — a bioinformatics researcher with a PhD in Environmental and Biomedical Microbiology. My work sits at the intersection of microbial genomics, data science, and computational biology. During my PhD, I combined whole genome sequencing, proteomics, and computational pipelines to study hospital-associated bacterial communities.
+Hi! I’m José Laço, a bioinformatics researcher with a PhD in Environmental and Biomedical Microbiology. My work sits at the intersection of microbial genomics, data science, and computational biology. During my PhD, I combined whole genome sequencing, proteomics, and computational pipelines to study hospital-associated bacterial communities. Along the way, I’ve presented at international conferences, and participated in science outreach initiatives. 
 
-Along the way, I’ve presented at international conferences, and participated in science outreach initiatives. I'm now expanding my skillset into machine learning and data science, mostly applied to biological datasets.
+I'm now expanding my skillset into machine learning and data science, mostly applied to biological datasets. Furthermore, I'm also developing bioinformatics pipelines and tools, while improving my programming knowledge.
