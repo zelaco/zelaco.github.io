@@ -148,4 +148,4 @@ awards:
 
 Hi! I’m José Laço — a bioinformatics researcher with a PhD in Environmental and Biomedical Microbiology. My work sits at the intersection of microbial genomics, data science, and computational biology. During my PhD, I combined whole genome sequencing, proteomics, and computational pipelines to study hospital-associated bacterial communities.
 
-Along the way, I’ve presented at international conferences, and participated in science outreach initiatives. I'm now expanding my skillset into machine learning and applied data science, with the goal of working at the intersection of biology and data science.
+Along the way, I’ve presented at international conferences, and participated in science outreach initiatives. I'm now expanding my skillset into machine learning and data science, mostly applied to biological datasets.
